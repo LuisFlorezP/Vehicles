@@ -12,7 +12,7 @@ car.Add(new Car("Renault", "Logan", 1882, "Amarillo", 66M));
 car.Add(new Car("Kia", "Picanto", 2011, "Amarillo", 110M));
 car.Add(new Car("Kia", "Picanto", 2011, "Amarillo", 137M));
 car.Add(new Car("Chevrolet", "Malibu", 2011, "Verde", 240M)); ;
-car.Add(new Car("Renault", "Logan", 2003, "Verde", 230M));  
+car.Add(new Car("Renault", "Logan", 2003, "Verde", 230M));
 car.Add(new Car("Mazda", "CX-5", 1882, "Verde", 121M));
 
 Console.WriteLine("***************** GetBrand *****************");
