@@ -1,0 +1,12 @@
+C:\Users\luisf\GitHub\Vehicles\Vehicles\Vehicles.Logic\bin\Debug\net6.0\Vehicles.Logic.deps.json
+C:\Users\luisf\GitHub\Vehicles\Vehicles\Vehicles.Logic\bin\Debug\net6.0\Vehicles.Logic.dll
+C:\Users\luisf\GitHub\Vehicles\Vehicles\Vehicles.Logic\bin\Debug\net6.0\Vehicles.Logic.pdb
+C:\Users\luisf\GitHub\Vehicles\Vehicles\Vehicles.Logic\obj\Debug\net6.0\Vehicles.Logic.csproj.AssemblyReference.cache
+C:\Users\luisf\GitHub\Vehicles\Vehicles\Vehicles.Logic\obj\Debug\net6.0\Vehicles.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\GitHub\Vehicles\Vehicles\Vehicles.Logic\obj\Debug\net6.0\Vehicles.Logic.AssemblyInfoInputs.cache
+C:\Users\luisf\GitHub\Vehicles\Vehicles\Vehicles.Logic\obj\Debug\net6.0\Vehicles.Logic.AssemblyInfo.cs
+C:\Users\luisf\GitHub\Vehicles\Vehicles\Vehicles.Logic\obj\Debug\net6.0\Vehicles.Logic.csproj.CoreCompileInputs.cache
+C:\Users\luisf\GitHub\Vehicles\Vehicles\Vehicles.Logic\obj\Debug\net6.0\Vehicles.Logic.dll
+C:\Users\luisf\GitHub\Vehicles\Vehicles\Vehicles.Logic\obj\Debug\net6.0\refint\Vehicles.Logic.dll
+C:\Users\luisf\GitHub\Vehicles\Vehicles\Vehicles.Logic\obj\Debug\net6.0\Vehicles.Logic.pdb
+C:\Users\luisf\GitHub\Vehicles\Vehicles\Vehicles.Logic\obj\Debug\net6.0\ref\Vehicles.Logic.dll
